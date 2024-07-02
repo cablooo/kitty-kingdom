@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/kitty-kingdom/static/css/main.71cb7ca4.css",
+    "main.js": "/kitty-kingdom/static/js/main.cc33447a.js",
+    "static/js/453.c4d3ab8d.chunk.js": "/kitty-kingdom/static/js/453.c4d3ab8d.chunk.js",
+    "static/media/Hoodi Cat.jpg": "/kitty-kingdom/static/media/Hoodi Cat.f2483aa7624a00ffe63b.jpg",
+    "static/media/Vergil Cat.jpg": "/kitty-kingdom/static/media/Vergil Cat.a0426d5f1b7f80d8aaa1.jpg",
+    "static/media/Heart Cat.jpg": "/kitty-kingdom/static/media/Heart Cat.ee2b40b776ea33a6e9b8.jpg",
+    "index.html": "/kitty-kingdom/index.html",
+    "main.71cb7ca4.css.map": "/kitty-kingdom/static/css/main.71cb7ca4.css.map",
+    "main.cc33447a.js.map": "/kitty-kingdom/static/js/main.cc33447a.js.map",
+    "453.c4d3ab8d.chunk.js.map": "/kitty-kingdom/static/js/453.c4d3ab8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71cb7ca4.css",
+    "static/js/main.cc33447a.js"
+  ]
+}
